@@ -288,7 +288,7 @@ span {
      Footer
 ======================*/
 .footer {
-  background-color: var(--Dark-blue);
+  background-color: var(--Dark-Blue);
   flex-direction: column;
   padding-block: var(--large-space);
   gap: var(--gap-space-l);
